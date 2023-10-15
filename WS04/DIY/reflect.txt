@@ -1,0 +1,11 @@
+/*name - patel vrundaben vijaykumar
+* email - vvpatel20@myseneca.ca
+* seneca id - 158605220
+* date - 07/ 10 / 2023
+* I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+*/
+In completing this workshop, I learned about creating classes and working with dynamic memory allocation in C++. I also learned how to design and implement
+constructors, destructors, and methods for a class. One challenge I faced was ensuring proper formatting of labels and input prompts when using `cin` and 
+`cout` in the console. Additionally, I had to make sure to manage memory properly to avoid memory leaks, which occurred when I forgot to deallocate memory 
+after dynamically allocating it. This experience taught me the importance of memory management in C++ programming. Overall, the workshop helped me gain a 
+better understanding of object-oriented programming concepts and practical application in C++.

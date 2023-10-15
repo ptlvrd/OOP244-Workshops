@@ -1,0 +1,13 @@
+/*name - patel vrundaben vijaykumar
+* email - vvpatel20@myseneca.ca
+* seneca id - 158605220
+* date - 29/ 09 / 2023
+* I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+*/
+In this workshop, I learned about the fundamental concepts of classes and objects in C++. Classes act as blueprints for creating objects, and objects are
+instances of these classes. I gained a deeper understanding of how to define and use classes to model real-world entities and their behaviors.I explored 
+the importance of member initialization in class constructors. By initializing member variables properly, I ensured that objects started in a valid state.
+Additionally, I learned about access control, specifically the public and private access specifiers. They helped me control the visibility of class members 
+and data encapsulation.
+One of the key challenges in this workshop was managing dynamic memory allocation. I had to use the 'new' operator to allocate memory dynamically and ensure
+proper cleanup using delete. This was crucial in preventing memory leaks and optimizing memory usage in my programs.
