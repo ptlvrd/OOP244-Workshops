@@ -1,0 +1,29 @@
+/* name- patel vrundaben vijaykumar
+* email - vvpatel20@myseneca.ca
+* seneca id- 158605220
+* date- 22/09/2023*/
+
+Workshop Reflection - OOP244 Workshop #2
+
+During OOP244 Workshop #2, I learned several important concepts and had hands-on experience with C++ programming. Here are some of the key topics and my reflections on them:
+
+1. File Input and Output:
+   - I learned how to open, read, and close files using C++ standard libraries. This workshop emphasized reading CSV files and processing data from them.
+
+2. Dynamic Memory Allocation:
+   - Dynamic memory allocation was a significant part of this workshop. I learned how to allocate memory for arrays of structures (Population in this case) using the 'new' operator and deallocate it using 'delete[]'.
+
+3. Sorting Algorithms:
+   - The workshop required sorting populations in ascending order based on population size. I implemented a simple bubble sort algorithm to achieve this.
+   
+4. Modular Programming:
+   - This workshop encouraged modular programming by dividing the code into separate functions for readability and maintainability.
+
+Challenges and Issues:
+- Understanding file I/O and parsing data from a CSV file was challenging initially. However, the workshop provided valuable insights into handling such tasks efficiently.
+
+- Ensuring proper memory allocation and deallocation to avoid memory leaks was a crucial aspect of this workshop. I had to be careful with memory management.
+
+- Sorting populations in ascending order required careful implementation of the sorting algorithm. I needed to ensure the correct comparison and swapping of elements.
+
+Overall, completing this workshop helped me strengthen my C++ programming skills, especially in dealing with files, memory allocation, and string manipulation. It also emphasized the importance of modular programming for code organization and readability.

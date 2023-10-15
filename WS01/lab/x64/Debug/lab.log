@@ -1,0 +1,7 @@
+﻿  cStrTools.cpp
+  w1p1.cpp
+  Word.cpp
+  WordStat.cpp
+  Generating Code...
+WordStat.obj : error LNK2005: main already defined in w1p1.obj
+C:\Users\saumi\OneDrive\Desktop\vrunda\courses\oop\OOP-Workshops-main\WS01\lab\x64\Debug\lab.exe : fatal error LNK1169: one or more multiply defined symbols found

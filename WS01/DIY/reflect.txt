@@ -1,0 +1,18 @@
+/* name- patel vrundaben vijaykumar
+* email - vvpatel20@myseneca.ca
+* seneca id- 158605220
+* date- 14/09/2023
+*/
+the topics that i have learned in completing this workshop is tat i learned how to work with files in C++
+using the FILE* to read data from a file. This included opening, reading, and closing files.
+Additionally, I gained knowledge about error handling when opening files. secondly, I improved my skills 
+in string manipulation using C++ strings. This included techniques like converting strings to lowercase,
+searching for substrings, and using string functions such as find. This workshop reinforced the importance
+of functions for code organization.The importance of breaking down code into modular functions became 
+clear during this workshop. It enhances code reusability, readability, and maintainability.
+I also faced cahllenges during this workshop, initially, I found file input using ifstream a bit
+challenging, especially when dealing with different data formats in the file. However, I overcame this by
+carefully reading documentation and practicing.There were moments when I struggled with string manipulation,
+particularly when converting strings to lowercase. Debugging and reviewing documentation helped me solve
+these issues. Deciding on the best design for the program and structuring the loops effectively took some
+time. I had to refactor the code a few times to make it more efficient and readable.
