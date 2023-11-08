@@ -1,0 +1,16 @@
+/*name - patel vrundaben vijaykumar
+* email - vvpatel20@myseneca.ca
+* seneca id - 158605220
+* date - 04 / 11 / 2023
+* I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+*/
+
+Upon successfully completing this workshop, I have demonstrated the following abilities:
+1. Defined and implemented multiple constructors: I can create a `HealthCard` class with various constructors, including a default constructor and one 
+that accepts all necessary parameters.
+2. Defined and implemented the rule of three: I have a good understanding of the rule of three, which involves implementing the copy constructor, copy
+assignment operator, and destructor to manage dynamic memory correctly.
+3. Read formatted data using istream: I can use istream to read and parse formatted data, such as health card information, from input streams.
+4. Write formatted data using ostream: I can use ostream to format and output data, including health card details, to output streams.
+5. Overloaded the extraction and insertion operators for I/O: I have successfully overloaded the extraction (`>>`) and insertion (`<<`) operators for
+the HealthCard class, allowing for user-friendly input and output operations using iostream.
