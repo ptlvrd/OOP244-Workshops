@@ -1,0 +1,13 @@
+/*name - patel vrundaben vijaykumar
+* email - vvpatel20@myseneca.ca
+* seneca id - 158605220
+* date - 11 / 11 / 2023
+* I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+*/
+During this workshop, I learned about creating classes in C++, specifically, inheriting a derived class from a base class. This involves building on existing functionalities and adding
+new ones in the derived class. I grasped the concept of shadowing, where the derived class can have its own version of a function that "shadows" the one in the base class. I also
+understood how to access these shadowed functions and use them effectively. Additionally, I worked on custom input/output operators, enabling more flexible interactions with my classes.
+While working on the workshop, I faced challenges in managing memory efficiently, especially dealing with potential memory leaks. Debugging and understanding the intricacies of dynamic 
+memory allocation were key aspects that required careful attention. By studying the solutions, revisiting course notes, and spending dedicated time on each deliverable, I gained a clearer
+understanding of these concepts. This hands-on experience has improved my skills in C++ programming, and I now appreciate the importance of proper memory management in creating robust and
+effective code.
