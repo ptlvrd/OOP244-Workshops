@@ -1,0 +1,11 @@
+/*Author	patel vrundaben vijaykumar
+id - 158605220
+date 17-11-2023
+I have done all the coding by myself and only copied the code
+that my professor provided to complete my workshops and assignments.*/
+
+Through this workshop, I've learned to define pure virtual functions, creating abstract base classes that act as templates for derived classes. I now understand how to implement
+specific behaviors in these derived classes using virtual functions. The key takeaway is recognizing the difference between abstract base classes, serving as blueprints, and 
+concrete classes, providing detailed implementations. The project milestones allowed me to design and implement classes like `Shape`, `LblShape`, `Line`, and `Rectangle`, 
+employing concepts like inheritance and polymorphism for dynamic behavior. Despite facing challenges in overriding pure virtual functions and managing memory effectively, the 
+handson experience has significantly improved my C++ and object-oriented programming skills.
