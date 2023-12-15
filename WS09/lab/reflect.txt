@@ -1,0 +1,11 @@
+/*Author	patel vrundaben vijaykumar
+id - 158605220
+date 23-11-2023
+I have done all the coding by myself and only copied the code
+that my professor provided to complete my workshops and assignments.*/
+
+In completing this workshop, I learned about C++ classes, inheritance, and memory management. I implemented a Student class and a derived Graduate class, focusing on dynamic memory
+allocation and proper resource deallocation. The rule of three was applied to manage memory in the context of copying, assignment, and destruction. I encountered challenges in
+resolving compilation errors, primarily due to missing headers and namespace qualifiers. Additionally, I faced difficulties related to memory leaks during submission, which
+required careful review and adjustment of my code( i was just missing the virtual word in the destructor). Overall, the workshop enhanced my understanding of C++ programming
+concepts and problem-solving skills.

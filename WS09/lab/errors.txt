@@ -1,0 +1,102 @@
+main_prof.cpp:21:14: error: variable or field ‘display’ declared void
+ void display(Student S ) {
+              ^
+main_prof.cpp:21:14: error: ‘Student’ was not declared in this scope
+main_prof.cpp:21:14: note: suggested alternative:
+In file included from main_prof.cpp:18:0:
+Student.h:10:8: note:   ‘sdds::Student’
+  class Student {
+        ^
+main_prof.cpp:24:15: error: variable or field ‘display’ declared void
+ void display( Graduate G ) {
+               ^
+main_prof.cpp:24:15: error: ‘Graduate’ was not declared in this scope
+main_prof.cpp:24:15: note: suggested alternative:
+In file included from main_prof.cpp:19:0:
+Graduate.h:11:8: note:   ‘sdds::Graduate’
+  class Graduate : public Student {
+        ^
+main_prof.cpp:27:18: error: variable or field ‘deallocate’ declared void
+ void deallocate( Student* std) {
+                  ^
+main_prof.cpp:27:18: error: ‘Student’ was not declared in this scope
+main_prof.cpp:27:18: note: suggested alternative:
+In file included from main_prof.cpp:18:0:
+Student.h:10:8: note:   ‘sdds::Student’
+  class Student {
+        ^
+main_prof.cpp:27:30: error: expected primary-expression before ‘)’ token
+ void deallocate( Student* std) {
+                              ^
+main_prof.cpp: In function ‘int main()’:
+main_prof.cpp:31:2: error: ‘Graduate’ was not declared in this scope
+  Graduate* graduates[5] = {
+  ^
+main_prof.cpp:31:2: note: suggested alternative:
+In file included from main_prof.cpp:19:0:
+Graduate.h:11:8: note:   ‘sdds::Graduate’
+  class Graduate : public Student {
+        ^
+main_prof.cpp:31:12: error: ‘graduates’ was not declared in this scope
+  Graduate* graduates[5] = {
+            ^
+main_prof.cpp:32:7: error: expected type-specifier before ‘Graduate’
+   new Graduate("Tim David", 30, "Short range wireless technologies", "Prof. Kim Beth"),
+       ^
+main_prof.cpp:32:7: error: expected ‘}’ before ‘Graduate’
+main_prof.cpp:32:7: error: expected ‘;’ before ‘Graduate’
+main_prof.cpp: At global scope:
+main_prof.cpp:39:2: error: ‘cout’ in namespace ‘std’ does not name a type
+  std::cout << "List of Graduates using Graduate Class Object and" << std::endl;
+  ^
+main_prof.cpp:40:2: error: ‘cout’ in namespace ‘std’ does not name a type
+  std::cout << "Testing copy constructor and copy assignment" << std::endl;
+  ^
+main_prof.cpp:41:2: error: ‘cout’ in namespace ‘std’ does not name a type
+  std::cout << "*************************************************" << std::endl;
+  ^
+main_prof.cpp:42:2: error: ‘Graduate’ does not name a type
+  Graduate G = *graduates[0];
+  ^
+main_prof.cpp:43:2: error: expected unqualified-id before ‘for’
+  for (size_t i = 0; i < 5; i++){
+  ^
+main_prof.cpp:43:21: error: ‘i’ does not name a type
+  for (size_t i = 0; i < 5; i++){
+                     ^
+main_prof.cpp:43:28: error: ‘i’ does not name a type
+  for (size_t i = 0; i < 5; i++){
+                            ^
+main_prof.cpp:48:2: error: ‘cout’ in namespace ‘std’ does not name a type
+  std::cout << "\n\nList of Graduates using Student Class Object and" << std::endl;
+  ^
+main_prof.cpp:49:2: error: ‘cout’ in namespace ‘std’ does not name a type
+  std::cout << "Testing Copy constructor and copy assignment and" << std::endl;
+  ^
+main_prof.cpp:50:2: error: ‘cout’ in namespace ‘std’ does not name a type
+  std::cout << "Destructor" << std::endl;
+  ^
+main_prof.cpp:51:2: error: ‘cout’ in namespace ‘std’ does not name a type
+  std::cout << "*************************************************" << std::endl;
+  ^
+main_prof.cpp:53:2: error: ‘Student’ does not name a type
+  Student students[5];
+  ^
+main_prof.cpp:54:2: error: ‘Student’ does not name a type
+  Student S = *graduates[0];
+  ^
+main_prof.cpp:55:2: error: expected unqualified-id before ‘for’
+  for ( size_t i = 0; i < 5; i++){
+  ^
+main_prof.cpp:55:22: error: ‘i’ does not name a type
+  for ( size_t i = 0; i < 5; i++){
+                      ^
+main_prof.cpp:55:29: error: ‘i’ does not name a type
+  for ( size_t i = 0; i < 5; i++){
+                             ^
+main_prof.cpp:61:2: error: expected unqualified-id before ‘return’
+  return 0;
+  ^
+main_prof.cpp:62:1: error: expected declaration before ‘}’ token
+ }
+ ^
