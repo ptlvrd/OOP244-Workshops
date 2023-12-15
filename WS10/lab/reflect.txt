@@ -1,0 +1,10 @@
+/*Author	patel vrundaben vijaykumar
+id - 158605220
+date 04-12-2023
+I have done all the coding by myself and only copied the code
+that my professor provided to complete my workshops and assignments.*/
+
+Throughout this workshop, I learned to create function templates for different data types and with multiple typenames,  enabling me to write generic code that can handle different types of input.
+I also learned how to organize them in a module for better code organization and reusability. One of the challenges I faced was managing memory for the dynamically allocated array of indices in
+the `select` function template. However, I successfully resolved this issue by allocating and deallocating memory properly. Overall, this workshop enhanced my understanding of function
+templates and their usage in creating modular and flexible code.

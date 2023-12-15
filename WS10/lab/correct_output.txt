@@ -1,0 +1,9 @@
+OOP244 Students with 4.0 GPA:
+Lisa Simpson (22345) GPA: 4.0, Milhouse Van Houten (56789) GPA: 4.0, Todd Flanders (67890) GPA: 4.0
+=============
+Seneca employees in office number 3000:
+Waylon Smithers (Office# 3000), Frank Grimes (Office# 3000)
+=============
+Ford Cars in the parking:
+CDEFG Ford Festiva, BCDEFG Ford Explorer
+=============
