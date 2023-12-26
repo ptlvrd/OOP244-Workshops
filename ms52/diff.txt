@@ -1,0 +1,14 @@
+In line number 45 of your output:
+The output should be:
+   2 | 45678 | Sleeping Bags                       |  100 |  200 |   65.66 |
+   ^
+But your output is: 
+   1 | 12113 | Hydrogen peroxide 100ml bottles     |  275 |  300 |    3.99 |*2024/11/11
+   ^
+
+Unmatched character details:
+The character in column 4 is supposed to be:
+  [2] ASCII code(50)
+but you printed
+  [1] ASCII code(49)
+
